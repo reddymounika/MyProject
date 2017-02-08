@@ -75,6 +75,13 @@ public class HomeController {
 		System.out.println("I am in aboutUs");
 		return new ModelAndView("aboutUs");
 	}
+	@RequestMapping("/service")
+	public ModelAndView service()
+	{
+		System.out.println("I am in services");
+		return new ModelAndView("service");
+	}
+	
 	@RequestMapping("/customerSignUp")
 	public ModelAndView signUp()
 	{

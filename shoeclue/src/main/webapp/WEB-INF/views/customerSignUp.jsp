@@ -310,7 +310,7 @@ span.psw {
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
        <li><a href="CustomerCheck"> Login</a></li>
-        <li><a href="AboutUs">About Us</a></li>
+        <li><a href="aboutUs"> AboutUs</a></li>
         <li><a href="Services">Services</a></li>
 		  <li>&nbsp; &nbsp; &nbsp; &nbsp;</li>
 		    

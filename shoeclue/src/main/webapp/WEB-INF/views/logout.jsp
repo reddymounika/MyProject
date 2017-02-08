@@ -44,7 +44,7 @@
 session.invalidate();
 %>
 <h1 style="text-align: center;">Thank You for Using Shoe Clue's</h1>
-<a href="/shoeclue/">Home</a>
+<center><a href="CustomerCheck">login here</a></center>
 </body>
  <div>
   

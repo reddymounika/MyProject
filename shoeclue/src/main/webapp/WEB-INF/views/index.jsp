@@ -53,8 +53,8 @@ $(document).ready(function(){
        
       <li><a href="CustomerCheck">Login</a></li>
         <li><a href="customerSignUp"> Sign Up</a></li>
-        <li><a href="AboutUs">About Us</a></li>
-        <li><a href="Services">Services</a></li>
+        <li><a href="aboutUs">About Us</a></li>
+        <li><a href="service">Services</a></li>
 		  <li>&nbsp; &nbsp; &nbsp; &nbsp;</li>
 
 		   <li> <button type="button" class="btn btn-primary btn-s" style="background-color:red">Shoe Clue's</button></li>
@@ -80,7 +80,7 @@ $(document).ready(function(){
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="resources/images/tommy.jpg" alt="Chania" style="width:800px; height:400px">
+        <img src="resources/images/1.jpg" alt="Chania" style="width:800px; height:400px">
         <div class="carousel-caption">
 		 <form class="form-inline" role="form">
           <div class="form-group">
@@ -91,7 +91,7 @@ $(document).ready(function(){
       </div>
 
       <div class="item">
-        <img src="resources/images/loafer1.jpg" alt="Chania" style="width:800px; height:400px">
+        <img src="resources/images/2.jpg" alt="Chania" style="width:800px; height:400px">
         <div class="carousel-caption">
          <form class="form-inline" role="form">
           <div class="form-group">
@@ -102,7 +102,7 @@ $(document).ready(function(){
       </div>
    
       <div class="item">
-        <img src="resources/images/loafter2.jpg" alt="Flower" style="width:800px; height:400px">
+        <img src="resources/images/4.jpg" alt="Flower" style="width:800px; height:400px">
         <div class="carousel-caption">
          <form class="form-inline" role="form">
           <div class="form-group">
@@ -112,7 +112,7 @@ $(document).ready(function(){
         </div>
       </div>
       <div class="item">
-        <img src="resources/images/tommy2.jpg" alt="Flower" style="width:800px; height:400px">
+        <img src="resources/images/5.jpg" alt="Flower" style="width:800px; height:400px">
         <div class="carousel-caption">
          <form class="form-inline" role="form">
           <div class="form-group">
